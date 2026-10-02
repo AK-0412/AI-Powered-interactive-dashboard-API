@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 # Use IPv4 explicitly to avoid connection issues on localhost
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://ai-powered-interactive-dashboard-api-production.up.railway.app"
 
 st.set_page_config(page_title="AI Dashboard", layout="wide")
 st.title("📊 Real-Time Interactive Analytics Dashboard")
