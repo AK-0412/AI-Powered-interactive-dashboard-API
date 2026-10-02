@@ -5,4 +5,4 @@ pydantic
 streamlit
 requests
 pandas
-plotly
+plotly 
